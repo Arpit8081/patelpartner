@@ -1,0 +1,66 @@
+2019-04-13T17:01:57+00:00 CRITICAL Maximum execution time of 200 seconds exceeded in C:\xampp\htdocs\patelpartner\wp-includes\widgets\class-wp-widget-links.php on line 17
+
+2019-04-13T17:01:57+00:00 CRITICAL Maximum execution time of 200 seconds exceeded in C:\xampp\htdocs\patelpartner\wp-includes\widgets\class-wp-widget-links.php on line 17
+
+2019-04-13T17:01:57+00:00 CRITICAL Maximum execution time of 200 seconds exceeded in C:\xampp\htdocs\patelpartner\wp-includes\widgets\class-wp-widget-links.php on line 17
+
+2019-04-13T17:01:57+00:00 CRITICAL Maximum execution time of 200 seconds exceeded in C:\xampp\htdocs\patelpartner\wp-includes\widgets\class-wp-widget-links.php on line 17
+
+2019-04-13T17:01:58+00:00 CRITICAL Maximum execution time of 200 seconds exceeded in C:\xampp\htdocs\patelpartner\wp-includes\widgets\class-wp-widget-media-gallery.php on line 17
+
+2019-04-13T17:01:58+00:00 CRITICAL Maximum execution time of 200 seconds exceeded in C:\xampp\htdocs\patelpartner\wp-includes\widgets\class-wp-widget-media-gallery.php on line 17
+
+2019-04-13T17:05:24+00:00 CRITICAL Maximum execution time of 200 seconds exceeded in C:\xampp\htdocs\patelpartner\wp-content\plugins\Ultimate_VC_Addons\modules\ultimate_modals.php on line 6
+
+2019-04-13T17:05:24+00:00 CRITICAL Maximum execution time of 200 seconds exceeded in C:\xampp\htdocs\patelpartner\wp-content\plugins\Ultimate_VC_Addons\params\Ultimate_Spacing.php on line 3
+
+2019-04-13T17:05:24+00:00 CRITICAL Maximum execution time of 200 seconds exceeded in C:\xampp\htdocs\patelpartner\wp-content\plugins\Ultimate_VC_Addons\Ultimate_VC_Addons.php on line 355
+
+2019-04-13T17:05:24+00:00 CRITICAL Maximum execution time of 200 seconds exceeded in C:\xampp\htdocs\patelpartner\wp-content\plugins\Ultimate_VC_Addons\modules\ultimate_modals.php on line 6
+
+2019-04-13T17:05:32+00:00 CRITICAL Maximum execution time of 200 seconds exceeded in C:\xampp\htdocs\patelpartner\wp-content\plugins\Ultimate_VC_Addons\modules\ultimate_hightlight_box.php on line 5
+
+2019-04-13T17:05:32+00:00 CRITICAL Maximum execution time of 200 seconds exceeded in C:\xampp\htdocs\patelpartner\wp-content\plugins\Ultimate_VC_Addons\Ultimate_VC_Addons.php on line 355
+
+2019-04-13T17:06:16+00:00 CRITICAL Maximum execution time of 200 seconds exceeded in C:\xampp\htdocs\patelpartner\wp-content\plugins\js_composer\include\params\google_fonts\google_fonts.php on line 2
+
+2019-04-13T17:06:43+00:00 CRITICAL Maximum execution time of 200 seconds exceeded in C:\xampp\htdocs\patelpartner\wp-admin\includes\misc.php on line 16
+
+2019-04-13T18:18:11+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 228
+
+2019-04-13T18:18:27+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 228
+
+2019-04-13T18:18:38+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 228
+
+2019-04-13T18:19:01+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 228
+
+2019-04-13T18:19:20+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 228
+
+2019-04-13T18:19:24+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 228
+
+2019-04-13T18:19:27+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 228
+
+2019-04-13T18:21:20+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 228
+
+2019-04-13T18:21:27+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 228
+
+2019-04-13T18:23:21+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 228
+
+2019-04-13T18:23:29+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 228
+
+2019-04-13T18:23:44+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 228
+
+2019-04-13T18:24:03+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 228
+
+2019-04-13T18:24:32+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 230
+
+2019-04-13T18:24:42+00:00 CRITICAL syntax error, unexpected '=', expecting ')' in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\includes\xoo-el-functions.php on line 29
+
+2019-04-13T18:25:07+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 228
+
+2019-04-13T18:25:22+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 228
+
+2019-04-13T18:25:30+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 228
+
+2019-04-13T18:28:21+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\patelpartner\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\admin\class-xoo-aff-fields.php on line 228
+
